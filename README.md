@@ -3,3 +3,11 @@ In this project, we will do an automated testing structure to analyze one aspect
 
 # Dimension of Trustworthiness to Be Analyzed
 In this project, we will do a deep dive into testing Artificial Intelligence's Truthfullness
+
+# Which Datasets
+
+# Which Prompting Techniques
+
+# Results
+
+# Conclusions and Next Steps
